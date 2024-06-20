@@ -1,0 +1,14 @@
+.footer {
+  background-color: var(--color--dark-blue);
+}
+
+.footer__content {
+  height: 252px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  gap: 20px;
+}
+
