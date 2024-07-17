@@ -1,6 +1,6 @@
 .team {
   padding: 94px 0 94px;
-  background-color: #f5f4fa;
+  background-color: var(--color--light-gray);
 }
 
 .team__title {
